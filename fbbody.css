@@ -1,0 +1,141 @@
+.left-body
+{
+    width:50%;
+  
+    float:left;
+}
+
+.right-body
+{
+    width: 50% ;
+    
+     float: left ;
+}
+.main-body
+{
+    
+    width:100%;
+    height:700px;
+    background-color: rgb(188, 182, 182);
+    padding-top: 40px ;
+    padding-left: 150px ;
+    float:left;
+    border-color: gray;
+} 
+
+.fb
+{
+    font-size: 25px; 
+    color:rgb(6, 11, 91);
+    font-weight: bold;
+}
+
+h1
+{
+   
+    color: rgb(28, 7, 86);
+}
+
+h4
+{
+  font-weight: bold;
+}
+.c-account
+{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.c-account2
+{
+    height: 30px;
+    width: 410px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.Day 
+{
+    width: 20px ;
+    height:25px;
+    border-radius: 5px ;
+    background-color: aliceblue;
+    float:left;
+}
+.DY 
+{
+    width: 50px ;
+    height:30px;
+    border-radius: 5px ;
+    float:left;
+    margin-left: 50px ;
+    padding-left: 30px;
+}
+
+
+.DY2
+{
+    width: 125px ;
+    height:30px;
+    border-radius: 5px ;
+    float:left;
+    margin-left: 50px ;
+    color: black;
+    font-weight: bold ;
+    padding-left: 30px;
+}
+
+.Gn
+{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.Birthday
+{
+    font-size: large;
+    color: rgb(100, 99, 99);
+    font-weight: bold;
+}
+
+.SingUpBox
+{
+  background-color: green;
+  Width:150px;
+  height:30px;
+  border-radius: 8px ;
+  font-style:inherit;
+  font-weight: bold;
+  font-size: large;
+  Margin-left : 10px;;
+}
+
+.SingUpBox:hover
+{
+    background: rgb(245, 245, 245);
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.que{
+
+    width: 12px;
+    height: 15px ;
+    padding-left: 5px ;
+    margin-left: -60px ;
+}
+
+.que2{
+
+    width: 12px;
+    height: 15px ;
+    padding-left: 5px ;
+    margin-left: 5px ;
+    
+}
